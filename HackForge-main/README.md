@@ -1,6 +1,5 @@
 # HackForge – MERN Based Coding Platform
 
-[Live Website](https://www.hackforge.dev) | [Detailed Docs](https://www.notion.so/HackForge-Coding-Platform-Documentation-2383267fd30c80a190a4cc3b65f54fbb?source=copy_link)
 
 HackForge is a MERN‑stack coding platform designed to help developers improve problem‑solving skills through structured DSA practice, AI guidance, and learning resources.
 
@@ -24,11 +23,6 @@ HackForge is a MERN‑stack coding platform designed to help developers improve 
 
 ---
 
-## Documentation
-For detailed system design, APIs, and database schema:  
-👉 [View the Full Documentation on Notion](https://www.notion.so/HackForge-Coding-Platform-Documentation-2383267fd30c80a190a4cc3b65f54fbb?source=copy_link)
-
----
 
 ## Future Scope
 - Contests & live competitions
